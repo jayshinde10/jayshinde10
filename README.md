@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jay Shinde
-- 👀 I’m interested in Football
-- 🌱 I’m currently learning python,java,JavaScript
+- 🌱 I’m currently learning python,java
 - 📫 How to reach me - shindejai10@gmail.com
 
 <!---
